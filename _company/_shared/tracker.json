@@ -8,11 +8,13 @@
       "createdAt": "2026-05-09T04:23:43.416Z",
       "dueAt": "2026-05-10",
       "status": "pending",
-      "nudges": 0,
+      "nudges": 1,
       "priority": "normal",
       "preAlarmsSent": [
-        "t1d"
-      ]
+        "t1d",
+        "t1h"
+      ],
+      "_lastNudgeAt": "2026-05-10T00:31:37.430Z"
     },
     {
       "id": "20260509051019-scex",
