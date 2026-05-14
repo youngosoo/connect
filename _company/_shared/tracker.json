@@ -113,10 +113,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T12:49:56.837Z",
       "status": "pending",
-      "nudges": 4,
+      "nudges": 5,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-13T11:55:53.608Z"
+      "_lastNudgeAt": "2026-05-14T11:41:42.897Z"
     },
     {
       "id": "20260509125039-ecq5",
