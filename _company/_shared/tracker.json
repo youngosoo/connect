@@ -8,13 +8,13 @@
       "createdAt": "2026-05-09T04:23:43.416Z",
       "dueAt": "2026-05-10",
       "status": "pending",
-      "nudges": 1,
+      "nudges": 5,
       "priority": "normal",
       "preAlarmsSent": [
         "t1d",
         "t1h"
       ],
-      "_lastNudgeAt": "2026-05-10T00:31:37.430Z"
+      "_lastNudgeAt": "2026-05-13T23:16:05.600Z"
     },
     {
       "id": "20260509051019-scex",
@@ -37,9 +37,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T05:21:38.895Z",
       "status": "pending",
-      "nudges": 0,
+      "nudges": 5,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T03:18:05.629Z"
     },
     {
       "id": "20260509062708-k39b",
@@ -48,9 +49,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:27:08.954Z",
       "status": "pending",
-      "nudges": 0,
+      "nudges": 5,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T04:18:05.658Z"
     },
     {
       "id": "20260509062923-scfr",
@@ -59,9 +61,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:29:23.264Z",
       "status": "pending",
-      "nudges": 0,
+      "nudges": 5,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T04:18:05.659Z"
     },
     {
       "id": "20260509063010-kojn",
@@ -70,9 +73,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:30:10.270Z",
       "status": "pending",
-      "nudges": 0,
+      "nudges": 5,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T04:18:05.659Z"
     },
     {
       "id": "20260509074209-tew5",
@@ -109,9 +113,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T12:49:56.837Z",
       "status": "pending",
-      "nudges": 0,
+      "nudges": 4,
       "priority": "normal",
-      "preAlarmsSent": []
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-13T11:55:53.608Z"
     },
     {
       "id": "20260509125039-ecq5",
@@ -123,6 +128,208 @@
       "nudges": 0,
       "priority": "normal",
       "preAlarmsSent": []
+    },
+    {
+      "id": "20260510055342-fdrk",
+      "title": "제10회 원주문화의거리 치맥페스티벌 10주년 행사기획",
+      "description": "전국 축제 및 행사 자료를 수집하고 학습해서 제10회 원주문화의거리 치맥페스티벌 10주년 행사기획을 준비해 보라고 했어",
+      "owner": "user",
+      "createdAt": "2026-05-10T05:53:42.704Z",
+      "status": "pending",
+      "nudges": 4,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T04:18:05.659Z"
+    },
+    {
+      "id": "20260510055417-cfoe",
+      "title": "전국 축제 및 행사 자료 수집 및 학습",
+      "description": "전국 축제 및 행사 자료를 수집하고 학습해서 제10회 원주문화의거리 치맥페스티벌 10주년 행사기획을 준비해 보라고 했어",
+      "owner": "agent",
+      "createdAt": "2026-05-10T05:54:17.519Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-10T21-56",
+      "evidence": "완료: sessions/2026-05-10T21-56/_report.md\n- 레오: 유튜브 채널의 성장을 위한 콘텐츠 전략을로써, 최근 경제 상황(금리 인상, 환율 변동 등) 최근 경제 뉴스/이슈 이슈를 경제 뉴스레터/로직을 활\n\nCEO 종합 요점: 현재 시스템 상태를 분석한 결과, 방대한 양의 반복적 데이터(3181~3897)가 나열되어 있으나, 이 데이터들이 무엇을 의미하는지, 어떤 프로세스의 결과물인지, 혹은 어떤 작업을 수행하기 위한 입력값인지에 대한 **컨텍스트(Context)가 결여**되어 있습니다.\n\n단순히 숫자가 나열된 상태로는 이를 '지식'이나 '실행 가능한 데이터'로 활용할 수 없습니",
+      "completedAt": "2026-05-10T22:36:44.783Z"
+    },
+    {
+      "id": "20260510115931-pb9w",
+      "title": "콘텐츠 주제 선정",
+      "description": "리버스로드 채널성장에 필요한 콘텐츠 주제를 10개 선정해서 전달해줘",
+      "owner": "agent",
+      "createdAt": "2026-05-10T11:59:31.830Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-10T21-56",
+      "evidence": "완료: sessions/2026-05-10T21-56/_report.md\n- 레오: 유튜브 채널의 성장을 위한 콘텐츠 전략을로써, 최근 경제 상황(금리 인상, 환율 변동 등) 최근 경제 뉴스/이슈 이슈를 경제 뉴스레터/로직을 활\n\nCEO 종합 요점: 현재 시스템 상태를 분석한 결과, 방대한 양의 반복적 데이터(3181~3897)가 나열되어 있으나, 이 데이터들이 무엇을 의미하는지, 어떤 프로세스의 결과물인지, 혹은 어떤 작업을 수행하기 위한 입력값인지에 대한 **컨텍스트(Context)가 결여**되어 있습니다.\n\n단순히 숫자가 나열된 상태로는 이를 '지식'이나 '실행 가능한 데이터'로 활용할 수 없습니",
+      "completedAt": "2026-05-10T22:36:44.784Z"
+    },
+    {
+      "id": "20260510120129-uhvt",
+      "title": "채널 분석에 맞는 콘텐츠 업로드",
+      "description": "채널 분석은 너가 충분히 했잖아. 이제 채널 분석에 맞는 콘텐츠를 업로드 해야 하니까, 채널의 정채성을 고려한 니치를 전달해 줄래",
+      "owner": "agent",
+      "createdAt": "2026-05-10T12:01:29.637Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-10T21-56",
+      "evidence": "완료: sessions/2026-05-10T21-56/_report.md\n- 레오: 유튜브 채널의 성장을 위한 콘텐츠 전략을로써, 최근 경제 상황(금리 인상, 환율 변동 등) 최근 경제 뉴스/이슈 이슈를 경제 뉴스레터/로직을 활\n\nCEO 종합 요점: 현재 시스템 상태를 분석한 결과, 방대한 양의 반복적 데이터(3181~3897)가 나열되어 있으나, 이 데이터들이 무엇을 의미하는지, 어떤 프로세스의 결과물인지, 혹은 어떤 작업을 수행하기 위한 입력값인지에 대한 **컨텍스트(Context)가 결여**되어 있습니다.\n\n단순히 숫자가 나열된 상태로는 이를 '지식'이나 '실행 가능한 데이터'로 활용할 수 없습니",
+      "completedAt": "2026-05-10T22:36:44.784Z"
+    },
+    {
+      "id": "20260512000715-hcu9",
+      "title": "시스템 체크",
+      "description": "시스템 체크해봐",
+      "owner": "user",
+      "createdAt": "2026-05-12T00:07:15.933Z",
+      "status": "pending",
+      "nudges": 2,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T00:17:05.583Z"
+    },
+    {
+      "id": "20260512020118-rlfk",
+      "title": "Python 필수 패키지 설치",
+      "description": "Python 필수 설치완료 했어",
+      "owner": "user",
+      "createdAt": "2026-05-12T02:01:18.115Z",
+      "status": "pending",
+      "nudges": 2,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T02:18:05.588Z"
+    },
+    {
+      "id": "20260512065557-dw9i",
+      "title": "경제 쇼츠 대본 피드백",
+      "description": "피드백줘",
+      "owner": "user",
+      "createdAt": "2026-05-12T06:55:57.936Z",
+      "status": "pending",
+      "nudges": 2,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T07:18:06.010Z"
+    },
+    {
+      "id": "20260512065807-pnfd",
+      "title": "경제 쇼츠 대본 피드백",
+      "description": "대본 전달해줘",
+      "owner": "user",
+      "createdAt": "2026-05-12T06:58:07.736Z",
+      "status": "pending",
+      "nudges": 2,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-14T07:18:06.010Z"
+    },
+    {
+      "id": "20260512065854-w1s6",
+      "title": "금리 인상과 비트코인 가격 변동에 관한 경제 쇼츠 대본 검토",
+      "description": "검토하도록 보내줄래",
+      "owner": "agent",
+      "createdAt": "2026-05-12T06:58:54.867Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-12T06-58",
+      "evidence": "완료: sessions/2026-05-12T06-58/_report.md\n- Writer: 경제 쇼츠 대본 작성 및 수정\n\nCEO 종합 요점: **✍️ Writer: 작업 시작합니다.**\n\n**목표:** 영상 스크립트 초안 2편 (후크 3안 포함) + 인스타 캡션 5개 + 블로그 글 1편\n\n**작업 내용:**\n\n**1. 영상 스크립트 초안 작성:**\n\n* 금리 인상과 비트코인 가격 변동에 대한 경제 쇼츠 대본 검토 및 분석\n* AI 수익화 검증 시리즈 1화와 쇼츠 대본 작성\n* '금리 인상'과 '",
+      "completedAt": "2026-05-12T07:00:01.521Z"
+    },
+    {
+      "id": "20260512113204-xsv2",
+      "title": "YouTube 콘텐츠 대본 스킬",
+      "description": "유튜브 콘텐츠 대본 스킬",
+      "owner": "agent",
+      "createdAt": "2026-05-12T11:32:04.792Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-13T01-54",
+      "evidence": "완료: sessions/2026-05-13T01-54/_report.md\n- 레오: 오늘 5개 영상을 업로드하고, 트렌드를 분석하여 콘텐츠 개선 방안을 마련하세요.\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: 📺 레오\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각 에이전",
+      "completedAt": "2026-05-13T02:06:33.515Z"
+    },
+    {
+      "id": "20260512113950-7s13",
+      "title": "리버스로드 채널의 정채성 담은 콘텐츠",
+      "description": "너희들이 대본을 만들어 달라고 했을때, 계속 헛소리만 하고 있잖아. 채널분석은 이미 했고, 리버스로드 채널의 정채성을 담은 떡상할 수 있는 콘텐츠가 필요해. 쓸대 없는 조사만 하지 말고, 철저한 분석을 통한 콘텐즈 제목과 니치를 찾아서 전달해 주면 좋겠어",
+      "owner": "mixed",
+      "createdAt": "2026-05-12T11:39:50.136Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-13T01-54",
+      "evidence": "완료: sessions/2026-05-13T01-54/_report.md\n- 레오: 오늘 5개 영상을 업로드하고, 트렌드를 분석하여 콘텐츠 개선 방안을 마련하세요.\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: 📺 레오\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각 에이전",
+      "completedAt": "2026-05-13T02:06:33.516Z"
+    },
+    {
+      "id": "20260513013751-zs92",
+      "title": "connectAI 업데이트",
+      "description": "connectAI update 있으면 해줘",
+      "owner": "user",
+      "createdAt": "2026-05-13T01:37:51.590Z",
+      "dueAt": "2026-05-14",
+      "status": "pending",
+      "nudges": 1,
+      "priority": "normal",
+      "preAlarmsSent": [
+        "t1d",
+        "t1h"
+      ],
+      "_lastNudgeAt": "2026-05-14T00:17:05.583Z"
+    },
+    {
+      "id": "20260514051844-yys9",
+      "title": "경제학 콘텐츠 기획",
+      "description": "경제학 콘텐츠 기획해봐",
+      "owner": "agent",
+      "createdAt": "2026-05-14T05:18:44.978Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-14T10-35",
+      "evidence": "완료: sessions/2026-05-14T10-35/_report.md\n- 영숙: 최종화된 '대본 초안' 파일을 확인하고, 지정된 팀원 또는 파트너에게 텔레그램 메시지 형태로 전송했는지 보고해 주세요.\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: 📱 영숙\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각 에이전",
+      "completedAt": "2026-05-14T10:35:54.391Z"
+    },
+    {
+      "id": "20260514052219-plxp",
+      "title": "분석",
+      "description": "분석해줘",
+      "owner": "agent",
+      "createdAt": "2026-05-14T05:22:19.368Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-14T10-35",
+      "evidence": "완료: sessions/2026-05-14T10-35/_report.md\n- 영숙: 최종화된 '대본 초안' 파일을 확인하고, 지정된 팀원 또는 파트너에게 텔레그램 메시지 형태로 전송했는지 보고해 주세요.\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: 📱 영숙\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각 에이전",
+      "completedAt": "2026-05-14T10:35:54.393Z"
+    },
+    {
+      "id": "20260514063618-3v55",
+      "title": "대본 분석",
+      "description": "아래 대본 분석해줘\n\"안전자산\"이라는 말, 그거 사실 거짓말이에요.\n\n은행 직원도, 보험설계사도 절대 말 안 해주는 진실 하나 알려드릴게요. 지난 2년간 금리가 7배 뛰는 동안, 옆집 김 사장은 자산이 두 배로 불었는데 왜 당신 통장만 텅텅 비었을까요?\n\n답은 딱 하나예요. \"행동하지 않았다.\"\n\n지금 당장 휴대폰 들고 본인 계좌 확인해 보세요. 만기 5년 넘는 채권, 매달 자동이체로 빠져나가는 적립식 펀드 있으세요? 그거 지금 이 순간에도 당신 돈을 녹이고 있는 중입니다. 금리 오르면 주가는 떨어지는데, 그 하락장에서 매달 비싼 주식을 사 모으고 있는 거예요. 밑 빠진 독에 물 붓는 거랑 똑같습니다.\n\n더 심각한 거 하나 더요. 대출 비중 50% 넘는 부동산 들고 계세요? 금리 1%만 더 올라도 연간 이자",
+      "owner": "agent",
+      "createdAt": "2026-05-14T06:36:18.734Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-14T10-35",
+      "evidence": "완료: sessions/2026-05-14T10-35/_report.md\n- 영숙: 최종화된 '대본 초안' 파일을 확인하고, 지정된 팀원 또는 파트너에게 텔레그램 메시지 형태로 전송했는지 보고해 주세요.\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: 📱 영숙\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각 에이전",
+      "completedAt": "2026-05-14T10:35:54.395Z"
     }
   ]
 }

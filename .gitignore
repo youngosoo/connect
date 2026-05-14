@@ -8,3 +8,5 @@ node_modules/
 .cache/
 Thumbs.db
 .env
+client_secrets.json
+oauth.local.json
