@@ -8,13 +8,13 @@
       "createdAt": "2026-05-09T04:23:43.416Z",
       "dueAt": "2026-05-10",
       "status": "pending",
-      "nudges": 5,
+      "nudges": 14,
       "priority": "normal",
       "preAlarmsSent": [
         "t1d",
         "t1h"
       ],
-      "_lastNudgeAt": "2026-05-13T23:16:05.600Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260509051019-scex",
@@ -37,10 +37,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T05:21:38.895Z",
       "status": "pending",
-      "nudges": 5,
+      "nudges": 14,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T03:18:05.629Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260509062708-k39b",
@@ -49,10 +49,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:27:08.954Z",
       "status": "pending",
-      "nudges": 5,
+      "nudges": 14,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T04:18:05.658Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260509062923-scfr",
@@ -61,10 +61,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:29:23.264Z",
       "status": "pending",
-      "nudges": 5,
+      "nudges": 14,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T04:18:05.659Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260509063010-kojn",
@@ -73,10 +73,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:30:10.270Z",
       "status": "pending",
-      "nudges": 5,
+      "nudges": 14,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T04:18:05.659Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260509074209-tew5",
@@ -113,10 +113,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T12:49:56.837Z",
       "status": "pending",
-      "nudges": 5,
+      "nudges": 13,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T11:41:42.897Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260509125039-ecq5",
@@ -136,10 +136,10 @@
       "owner": "user",
       "createdAt": "2026-05-10T05:53:42.704Z",
       "status": "pending",
-      "nudges": 4,
+      "nudges": 13,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T04:18:05.659Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260510055417-cfoe",
@@ -190,10 +190,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T00:07:15.933Z",
       "status": "pending",
-      "nudges": 2,
+      "nudges": 11,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T00:17:05.583Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260512020118-rlfk",
@@ -202,10 +202,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T02:01:18.115Z",
       "status": "pending",
-      "nudges": 2,
+      "nudges": 11,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T02:18:05.588Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260512065557-dw9i",
@@ -214,10 +214,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T06:55:57.936Z",
       "status": "pending",
-      "nudges": 2,
+      "nudges": 11,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T07:18:06.010Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260512065807-pnfd",
@@ -226,10 +226,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T06:58:07.736Z",
       "status": "pending",
-      "nudges": 2,
+      "nudges": 11,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-14T07:18:06.010Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260512065854-w1s6",
@@ -281,13 +281,13 @@
       "createdAt": "2026-05-13T01:37:51.590Z",
       "dueAt": "2026-05-14",
       "status": "pending",
-      "nudges": 1,
+      "nudges": 10,
       "priority": "normal",
       "preAlarmsSent": [
         "t1d",
         "t1h"
       ],
-      "_lastNudgeAt": "2026-05-14T00:17:05.583Z"
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
     },
     {
       "id": "20260514051844-yys9",
@@ -330,6 +330,32 @@
       "sessionDir": "2026-05-14T10-35",
       "evidence": "완료: sessions/2026-05-14T10-35/_report.md\n- 영숙: 최종화된 '대본 초안' 파일을 확인하고, 지정된 팀원 또는 파트너에게 텔레그램 메시지 형태로 전송했는지 보고해 주세요.\n\nCEO 종합 요점: ⚠️ **모든 에이전트의 LLM 호출이 실패했습니다.**\n\n시도된 에이전트: 📱 영숙\n\n**가장 흔한 원인**:\n- LM Studio에 모델 로드 실패 (메모리 부족) — 모델 오케스트레이션 모달에서 더 작은 모델 선택\n- Ollama/LM Studio 서버 미실행\n- Context Length 초과 (LM Studio 8192 이상 권장)\n\n_각 에이전",
       "completedAt": "2026-05-14T10:35:54.395Z"
+    },
+    {
+      "id": "20260516025651-dge1",
+      "title": "쇼츠 대본 작성",
+      "description": "쇼츠대본 전달해",
+      "owner": "user",
+      "createdAt": "2026-05-16T02:56:51.904Z",
+      "status": "pending",
+      "nudges": 7,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+    },
+    {
+      "id": "20260519150846-o6cy",
+      "title": "치맥페스티벌 랜딩페이지",
+      "description": "치맥페스티벌 랜딩페이지도 구성해",
+      "owner": "agent",
+      "createdAt": "2026-05-19T15:08:46.803Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-19T14-56",
+      "evidence": "완료: sessions/2026-05-19T14-56/_report.md\n- 영숙: 2026-05-19 모닝 브리핑을 준비하고 회사 목표(goal.md)와 의사결정 로그를 분석하여 오늘 우선순위를 3 가지로 정리합니다.\n- Researcher: 회사 목표 문서와 의사결정 로그를 분석하여 현재 진행 중인 프로젝트, 미완료 작업, 주요 미팅 일정을 파악합니다.\n- 현빈: 연구 결과를 바탕으로 오늘 하루의 핵심 목표와 전략적 우선순위를 3 가지로 정리하고 브리핑에 반영합니다.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: 2026-05-19 모닝 브리핑을 준비하고 회사 목표(goal.md)와 의사결정 로그를 분석하여 오늘 우선순위를 3 가지로 정리합니다.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: ",
+      "completedAt": "2026-05-19T15:16:26.033Z"
     }
   ]
 }
