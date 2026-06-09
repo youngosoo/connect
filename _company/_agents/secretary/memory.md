@@ -20,3 +20,5 @@ _영숙 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰�
 - [2026-05-14] 지난 24시간 동안 발생한 모든 의사결정 로그와 에이전트별 개인 목표를 요약하고, 현재 미진하거나 다음 단계로 넘어가야 할 '가장 높은 가치의 지연된 작업'을 추출하여 브리핑합니다. → 산출물 sessions/2026-05-14T13-26/secretary.md
 - [2026-05-19] 2026-05-19 모닝 브리핑을 준비하고 회사 목표(goal.md)와 의사결정 로그를 분석하여 오늘 우선순위를 3 가지로 정리합니다. → 산출물 sessions/2026-05-19T14-56/secretary.md
 - [2026-05-21] 현재 미완료 작업 목록과 각 에이전트 목표 달성률을 요약하여 보고합니다. → 산출물 sessions/2026-05-21T08-09/secretary.md
+- [2026-06-03] goals.md와 의사결정 로그를 분석하여 leaven_v1_release-out.md (leaven_v1_use-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-singe-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-case-
+- [2026-06-09] 2026-06-09 일정 및 할 일 목록 확인 및 요로약 보고 → 산출물 sessions/2026-06-09T01-48/secretary.md

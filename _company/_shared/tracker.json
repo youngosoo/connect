@@ -8,13 +8,13 @@
       "createdAt": "2026-05-09T04:23:43.416Z",
       "dueAt": "2026-05-10",
       "status": "pending",
-      "nudges": 14,
+      "nudges": 19,
       "priority": "normal",
       "preAlarmsSent": [
         "t1d",
         "t1h"
       ],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260509051019-scex",
@@ -37,10 +37,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T05:21:38.895Z",
       "status": "pending",
-      "nudges": 14,
+      "nudges": 19,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260509062708-k39b",
@@ -49,10 +49,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:27:08.954Z",
       "status": "pending",
-      "nudges": 14,
+      "nudges": 19,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260509062923-scfr",
@@ -61,10 +61,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:29:23.264Z",
       "status": "pending",
-      "nudges": 14,
+      "nudges": 19,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260509063010-kojn",
@@ -73,10 +73,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T06:30:10.270Z",
       "status": "pending",
-      "nudges": 14,
+      "nudges": 19,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260509074209-tew5",
@@ -113,10 +113,10 @@
       "owner": "user",
       "createdAt": "2026-05-09T12:49:56.837Z",
       "status": "pending",
-      "nudges": 13,
+      "nudges": 18,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260509125039-ecq5",
@@ -136,10 +136,10 @@
       "owner": "user",
       "createdAt": "2026-05-10T05:53:42.704Z",
       "status": "pending",
-      "nudges": 13,
+      "nudges": 18,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260510055417-cfoe",
@@ -190,10 +190,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T00:07:15.933Z",
       "status": "pending",
-      "nudges": 11,
+      "nudges": 16,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260512020118-rlfk",
@@ -202,10 +202,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T02:01:18.115Z",
       "status": "pending",
-      "nudges": 11,
+      "nudges": 16,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260512065557-dw9i",
@@ -214,10 +214,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T06:55:57.936Z",
       "status": "pending",
-      "nudges": 11,
+      "nudges": 16,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260512065807-pnfd",
@@ -226,10 +226,10 @@
       "owner": "user",
       "createdAt": "2026-05-12T06:58:07.736Z",
       "status": "pending",
-      "nudges": 11,
+      "nudges": 16,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260512065854-w1s6",
@@ -281,13 +281,13 @@
       "createdAt": "2026-05-13T01:37:51.590Z",
       "dueAt": "2026-05-14",
       "status": "pending",
-      "nudges": 10,
+      "nudges": 15,
       "priority": "normal",
       "preAlarmsSent": [
         "t1d",
         "t1h"
       ],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260514051844-yys9",
@@ -338,10 +338,10 @@
       "owner": "user",
       "createdAt": "2026-05-16T02:56:51.904Z",
       "status": "pending",
-      "nudges": 7,
+      "nudges": 12,
       "priority": "normal",
       "preAlarmsSent": [],
-      "_lastNudgeAt": "2026-05-31T03:51:14.047Z"
+      "_lastNudgeAt": "2026-06-08T22:38:26.052Z"
     },
     {
       "id": "20260519150846-o6cy",

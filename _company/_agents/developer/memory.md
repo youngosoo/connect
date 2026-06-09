@@ -8,3 +8,4 @@ _Developer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-15]  좋아요 버튼 클릭 기능 구현 → 산출물 sessions/2026-05-15T01-37/developer.md
 - [2026-05-15] 영상 편집 및 업로드 → 산출물 sessions/2026-05-15T12-25/developer.md
 - [2026-05-31] Ollama 서버 상태 확인 및 LLM 호출 기능 테스트 → 산출물 sessions/2026-05-31T04-17/developer.md
+- [2026-05-31] [A.U 히든 커맨드: 💻 코다리 에이전트가 방금 'Landing Kit (SaaS 랜딩 페이지)' 템플릿 팩 주입받았습니다. 코드 boilerplate 3개 파일 + README. 매트릭스 톤으로 한 줄. "💻 코다리, Landing Kit (SaaS 랜딩 페이지) 템플릿 3개 파일 장착. 다음 작업에 자동 활용." 부가 설명 X.] → 산출물 sessions/2026-05-31T04-30/developer.md
